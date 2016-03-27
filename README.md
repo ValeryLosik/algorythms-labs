@@ -1,1 +1,1 @@
-# coursera-algorythms
+# algorythms-labs
